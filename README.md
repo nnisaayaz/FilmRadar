@@ -1,4 +1,3 @@
-FilmRadar 
 FilmRadar, popüler filmleri The Movie Database (TMDB) API üzerinden listeleyen, favorilere ekleme, detay görüntüleme ve arama/filtreleme özellikleri sunan bir mobil uygulamadır.
 
 Özellikler
