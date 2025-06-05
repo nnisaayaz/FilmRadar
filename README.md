@@ -13,7 +13,7 @@ FilmRadar, popüler filmleri The Movie Database (TMDB) API üzerinden listeleyen
 Kullanılan API
 
 - [TMDB - The Movie Database API](https://www.themoviedb.org/documentation/api)
-- **Not:** TMDB API’sinde zaman zaman veri tutarsızlıkları yaşanabiliyor. Bazı filmlerin açıklamaları yanlış veya başka bir filme ait görünebilir. Uygulama teknik olarak doğru çalışmaktadır; bu durum API tarafında yaşanan bir veri problemidir.
+- Not: TMDB API’sinde zaman zaman veri tutarsızlıkları yaşanabiliyor. Bazı filmlerin açıklamaları yanlış veya başka bir filme ait görünebilir. Uygulama teknik olarak doğru çalışmaktadır; bu durum API tarafında yaşanan bir veri problemidir.
 
 Kurulum ve Çalıştırma
 
@@ -31,14 +31,14 @@ npx expo start
 
 5. QR kodu telefonunuzdaki Expo Go uygulamasıyla okutun.
 
-> **Not:** Kendi TMDB API anahtarınızı [buradan](https://www.themoviedb.org/settings/api) ücretsiz alıp (çok kolay alması), HomeScreen.js’deki `API_KEY` değişkenine eklemelisiniz.
+Not: Kendi TMDB API anahtarınızı [buradan](https://www.themoviedb.org/settings/api) ücretsiz alıp (çok kolay alması), HomeScreen.js’deki `API_KEY` değişkenine eklemelisiniz.
 
 Ekranlar ve Kullanım
 
-- **Ana Sayfa:** Popüler filmler listelenir. Üstte “Favorilerim” butonuyla sadece favorilere geçiş yapılır. En alta kaydırınca “Hakkında” butonu ve uygulama bilgileri görünür.
-- **Detay:** Seçilen filmin afişi, adı, yılı, puanı ve açıklaması görüntülenir.
-- **Favoriler:** Favoriye eklenen filmleri tek tuşla görürsünüz.
-- **Hakkında:** Uygulama ve geliştiriciye dair mizahi bilgiler, teşekkürler ve teknik detaylar yer alır.
+- Ana Sayfa: Popüler filmler listelenir. Üstte “Favorilerim” butonuyla sadece favorilere geçiş yapılır. En alta kaydırınca “Hakkında” butonu ve uygulama bilgileri görünür.
+- Detay: Seçilen filmin afişi, adı, yılı, puanı ve açıklaması görüntülenir.
+- Favoriler: Favoriye eklenen filmleri tek tuşla görürsünüz.
+- Hakkında: Uygulama ve geliştiriciye dair mizahi bilgiler, teşekkürler ve teknik detaylar yer alır.
 
 Kullandıklarım:
 
@@ -50,7 +50,5 @@ Kullandıklarım:
 
 Geliştirici
 Nisa Ayaz
-
----
 
 Her türlü öneri ve katkı için teşekkürler.
